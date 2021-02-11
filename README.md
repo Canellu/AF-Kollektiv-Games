@@ -1,5 +1,5 @@
 # AF-Kollektiv-Games
-Scripts for å løse spillene i konkurransen til <img src=/asset/AF_logo.png width="100"> AF Gruppen
+Scripts for å løse spillene i konkurransen til <img src=/asset/AF_logo.png width="20"> AF Gruppen
 
 
 
